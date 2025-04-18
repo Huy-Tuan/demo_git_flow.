@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+}
+.block {
+    width: 200px;
+    height: 200px;
+    color: red;
+    border: 1px solid transparent;
+}
